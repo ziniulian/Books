@@ -1,0 +1,83 @@
+PLAIN
+K 8
+2007.XLS
+V 23
+file 0-11.0.r11/5743580
+K 8
+2008.XLS
+V 23
+file 2-11.0.r11/5743825
+K 8
+2009.XLS
+V 23
+file 3-11.0.r11/5744070
+K 9
+2010.xlsx
+V 23
+file 4-11.0.r11/5744315
+K 9
+2011.xlsx
+V 23
+file 5-11.0.r11/5744562
+K 9
+2012.xlsx
+V 23
+file 6-11.0.r11/5744808
+K 9
+2013.xlsx
+V 23
+file 7-11.0.r15/1034331
+K 9
+2014.xlsx
+V 23
+file 8-11.0.r11/5745301
+K 9
+2015.xlsx
+V 23
+file 9-11.0.r11/5745548
+K 9
+2016.xlsx
+V 23
+file a-11.0.r30/1936047
+K 9
+2017.xlsx
+V 23
+file 0-23.0.r43/1752678
+K 1
+G
+V 21
+dir b-11.0.r39/598651
+K 6
+G.xlsm
+V 22
+file 2-32.0.r36/361007
+K 6
+G.xlsx
+V 23
+file 0-35.0.r35/1710839
+K 3
+old
+V 22
+dir q-11.0.r43/1753916
+K 6
+密档
+V 23
+dir 1g-11.0.r43/1754422
+K 32
+账本模板（2017-6-21）.xlsx
+V 23
+file 3-43.0.r43/1754578
+END
+ENDREP
+id: 0.0.r44/742
+type: dir
+pred: 0.0.r43/1755655
+count: 44
+text: 44 0 729 0 a53177eeb927528e67b835e5c7ca4cf4
+cpath: /
+copyroot: 0 /
+
+5-35.0.r35/1712841 delete-file false false /账本模板（2017-3-17）.xlsx
+
+
+742 874
